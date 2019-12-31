@@ -1,0 +1,18 @@
+.uni-navbar__content {
+  background: -webkit-linear-gradient(left,#42BAE9, #63DDE3);
+  background: -o-linear-gradient(right,#42BAE9, #63DDE3);
+  background: -moz-linear-gradient(right,#42BAE9,#63DDE3);
+  background: linear-gradient(to right,#42BAE9, #63DDE3);
+}
+
+.uni-navbar--shadow{
+  box-shadow: none !important;
+}
+
+.uni-navbar--border:after {
+  height: 0px !important;
+}
+
+.uni-navbar__header-btns {
+  width: auto !important;
+}

@@ -1,0 +1,120 @@
+{
+	"pages": [
+		{
+			"path": "pages/startUp/index"
+		},
+		{
+			"path": "pages/login/userIndex"
+		},
+		{
+			"path": "pages/login/index"
+		},
+		{
+			"path": "pages/index/index"
+		},
+		{
+			"path": "pages/user/add"
+		},
+		{
+			"path": "pages/login/forget"
+		},
+		{
+			"path": "pages/message/healthOver/index"
+		},
+		{
+			"path": "pages/message/healthOver/overLog"
+		},
+		{
+			"path": "pages/message/communityPush/index"
+		},
+		{
+			"path": "pages/message/personPush/index"
+		},
+		{
+			"path": "pages/message/personPush/disposeWarning"
+		},
+		{
+			"path": "pages/message/recordDetails"
+		},
+		{
+			"path": "pages/message/callRecord/index"
+		},
+		{
+			"path": "pages/message/callRecordInfo/index"
+		},
+		{
+			"path": "pages/user/userInfo/index"
+		},
+		{
+			"path": "pages/user/setHealth/index"
+		},
+		{
+			"path": "pages/user/heartInfo/index"
+		},
+		{
+			"path": "pages/user/totalCall/index"
+		},
+		{
+			"path": "pages/user/totalWarn/index"
+		},
+    	{
+			"path": "pages/user/healthStatus/index"
+		},
+  		{
+			"path": "pages/user/setHealthNumber/index"
+
+    	},
+		{
+			"path": "pages/user/userInfo/servicePack"
+		},
+		{
+			"path": "pages/user/userInfo/servicePackDetail"
+		},
+		{
+			"path": "pages/my/myServicePack"
+		},
+		{
+			"path": "pages/my/myCommunity"
+		},
+		{
+			"path": "pages/userSide/index"
+		},
+		{
+			"path": "pages/userMy/myDoctor"
+		},
+		{
+			"path": "pages/userMy/myCare/index"
+		},
+		{
+			"path": "pages/userMy/personInfo/index"
+		},
+		{
+			"path": "pages/userMy/userMyServicePack"
+		},
+		{
+			"path": "pages/care/index"
+		},
+		{
+			"path": "pages/user/healthStatus/realtimeStatus"
+		},
+		{
+			"path": "pages/message/submitResult/index"
+		}
+
+    ],
+    "globalStyle": {
+        "navigationBarTextStyle": "black",
+        "navigationBarTitleText": "",
+        "navigationBarBackgroundColor": "#F8F8F8",
+        "backgroundColor": "#ffffff",
+        "navigationStyle": "custom"
+    },
+    "condition": {
+        "current": 0,
+        "list": [{
+            "name": "swiper",
+            "path": "pages/startUp/index",
+            "query": ""
+        }]
+    }
+}

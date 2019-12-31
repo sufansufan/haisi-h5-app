@@ -1,0 +1,17 @@
+.user-add {
+  select {
+    width: 100%;
+    height: 100%;
+    background: none;
+    border: none;
+    color: #68C8ED;
+    outline: none;
+    margin-top: -5px;
+    & > .option {
+      border: none;
+    }
+    &::focus {
+       border: none;
+    }
+  }
+}

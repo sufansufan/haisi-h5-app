@@ -1,0 +1,17 @@
+@import './navBar.scss';
+@import './topBackground.scss';
+@import './common.scss';
+@import './tagColors.scss';
+@import './input.scss';
+@import './tag.scss';
+@import './buttons.scss';
+@import './select.scss';
+
+image {
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+uni-toast {
+  z-index: 999999;
+}
